@@ -26,11 +26,5 @@ public class Bird {
         } else {
             return this.name + " (" + this.latinName + "): " + observations + " observations";
         }
-        
-    }
-    
-    
-    
-    
-    
+    }  
 }
